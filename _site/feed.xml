@@ -5,8 +5,8 @@
     <description>Minimalist Jekyll theme for technical writing blog.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Dec 2018 00:51:02 +0900</pubDate>
-    <lastBuildDate>Wed, 19 Dec 2018 00:51:02 +0900</lastBuildDate>
+    <pubDate>Sun, 23 Dec 2018 00:04:11 +0900</pubDate>
+    <lastBuildDate>Sun, 23 Dec 2018 00:04:11 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -15,6 +15,22 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.outsider.ne.kr/865&quot;&gt;Github를 이용하는 전체 흐름 이해하기 #1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://subicura.com/2016/06/20/server-side-rendering-with-react.html&quot;&gt;왜 React와 서버 사이드 렌더링인가?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://huns.me/development/1291&quot;&gt;Ajax &amp;amp; CORS Overview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dh-dh.tistory.com/26&quot;&gt;GIT FLOW를 알아봅시다&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hongsii.github.io/2017/08/02/what-is-the-difference-get-and-post/&quot;&gt;GET과 POST의 차이&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.hannal.com/2015/04/start_with_django_webframework_06/&quot;&gt;Django 정적 파일 기능 이해하기&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jojoldu.tistory.com/31&quot;&gt;Swagger로 API 문서 자동화하기&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://makerj.tistory.com/225&quot;&gt;DRF + CORS + CSRF + AJAX 하에서 개발하기&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://charsyam.wordpress.com/2011/12/17/%EB%B0%9C-%EB%B2%88%EC%97%AD-%EC%88%98%EB%B0%B1%EB%8C%80%EC%9D%98-%EC%9E%A5%EB%B9%84%EC%99%80-%EC%88%98%EC%8B%AD%EA%B0%80%EC%A7%80%EC%9D%98-%EA%B8%B0%EC%88%A0-instagram%EC%9D%98-%ED%9E%98/&quot;&gt;[발 번역] 수백대의 장비와 수십가지의 기술, Instagram의 힘&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.django-rest-framework.org/api-guide/authentication/&quot;&gt;Django Authentication&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.peoplefund.co.kr/2017/11/03/django-db-optimization.html&quot;&gt;Django DB 최적화&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;찾아-볼-url&quot;&gt;찾아 볼 url&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;의존성 관&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;REST API란&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 18 Dec 2018 00:00:00 +0900</pubDate>
